@@ -1,7 +1,7 @@
 ## Hello, I am Roy👋
 
-🔭 I am a year 2 computer science student
-🌱 I am currently learning React and Express.js
+- 🔭 I am a year 2 computer science student
+- 🌱 I am currently learning React and Express.js
 
 <!--
 **royng163/royng163** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
