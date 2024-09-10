@@ -1,6 +1,6 @@
 ## Hello, I am Roy👋
 
-- 🔭 I am a year 2 computer science student
+- 🔭 I am a year 3 computer science student
 - 🌱 I am currently learning Flutter
 
 <!--
