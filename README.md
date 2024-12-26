@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently working on **a Web App**
+- 🔭 I’m currently working on an **Expense Tracking Web App ([FinC](https://github.com/royng163/FinC))**
 
 - 🌱 I’m currently learning **Flutter**
 
