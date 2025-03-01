@@ -18,5 +18,5 @@
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royng163&show_icons=true&theme=react&locale=en&layout=donut&langs_count=5&hide=cmake,c%2B%2B,swift,html" alt="Roy Ng's Top Languages in GitHub" longdesc="https://github.com/royng163"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=royng163&theme=react&layout=compact" alt="Roy Ng's WakaTime Stats" longdesc="https://wakatime.com/@royng163"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=royng163&theme=react&layout=compact&langs_count=6" alt="Roy Ng's WakaTime Stats" longdesc="https://wakatime.com/@royng163"/>
 </div>
