@@ -49,6 +49,6 @@
 
 <h2 align="left">📊Stats:</h2>
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-    <a href="https://github.com/royng163"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=royng163&show_icons=true&theme=react&locale=en&layout=donut&langs_count=6&hide=cmake,c%2B%2B,swift,html" alt="Roy Ng's Top Languages in GitHub"/></a>
-    <a href="https://wakatime.com/@royng163"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=royng163&theme=react&layout=compact&langs_count=12" alt="Roy Ng's WakaTime Stats"/></a>
+    <a href="https://github.com/royng163"><img align="center" src="https://github-readme-stats-delta-three-50.vercel.app/api/top-langs?username=royng163&show_icons=true&theme=react&locale=en&layout=donut&langs_count=6&hide=cmake,c%2B%2B,swift,html&size_weight=0.5&count_weight=0.5&exclude_repo=ETHlection" alt="Roy Ng's Top Languages in GitHub"/></a>
+    <a href="https://wakatime.com/@royng163"><img align="center" src="https://github-readme-stats-delta-three-50.vercel.app/api/wakatime?username=royng163&theme=react&layout=compact&langs_count=12" alt="Roy Ng's WakaTime Stats"/></a>
 </div>
