@@ -43,36 +43,46 @@
 
 <h2 align="left">📊Stats:</h2>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2023%20mins-blue?style=flat)
 
-**🐱 My GitHub Data** 
-
-> 📦 590.5 kB Used in GitHub's Storage 
- > 
-> 🏆 43 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I Mostly Code in TypeScript** 
+**I'm a Night 🦉** 
 
 ```text
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+🌆 Daytime                160 commits         ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌃 Evening                229 commits         ██████████░░░░░░░░░░░░░░░   41.71 % 
+🌙 Night                  149 commits         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Tuesday                  105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Wednesday                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Saturday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+Sunday                   124 commits         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
 ```
 
 
+📊 **This Week I Spent My Time On** 
 
-**Timeline**
+```text
+💬 Programming Languages: 
+Python                   18 hrs 24 mins      ██████████████████░░░░░░░   71.87 % 
+Vue                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
-![Lines of Code chart](https://raw.githubusercontent.com/royng163/royng163/main/assets/bar_graph.png)
+🔥 Editors: 
+VS Code                  19 hrs 47 mins      ███████████████████░░░░░░   77.30 % 
+Claude Code              5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+
+💻 Operating System: 
+Mac                      25 hrs 36 mins      █████████████████████████   100.00 % 
+```
 
 
- Last Updated on 14/06/2026 05:04:42 UTC
 <!--END_SECTION:waka-->
