@@ -76,6 +76,3 @@ Solidity                 1 repo              █░░░░░░░░░░�
 
  Last Updated on 14/06/2026 05:04:42 UTC
 <!--END_SECTION:waka-->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
-    <a href="https://github.com/royng163"><img align="center" src="https://github-readme-stats-delta-three-50.vercel.app/api/top-langs?username=royng163&show_icons=true&theme=react&locale=en&layout=donut&langs_count=6&hide=cmake,c%2B%2B,swift,html&size_weight=0.5&count_weight=0.5&exclude_repo=ETHlection" alt="Roy Ng's Top Languages in GitHub"/></a>
-</div>
