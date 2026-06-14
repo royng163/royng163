@@ -44,44 +44,85 @@
 <h2 align="left">📊Stats:</h2>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C212%20hrs%2023%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 590.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 48 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                11 commits          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.00 % 
-🌆 Daytime                161 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.27 % 
-🌃 Evening                229 commits         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.64 % 
-🌙 Night                  149 commits         ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.09 % 
+🌞 Morning                11 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+🌆 Daytime                163 commits         ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+🌃 Evening                229 commits         ██████████░░░░░░░░░░░░░░░   41.49 % 
+🌙 Night                  149 commits         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   97 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.64 % 
-Tuesday                  105 commits         ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.09 % 
-Wednesday                41 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.45 % 
-Thursday                 61 commits          ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.09 % 
-Friday                   43 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.82 % 
-Saturday                 78 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.18 % 
-Sunday                   125 commits         ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.73 % 
+Monday                   97 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Wednesday                41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Thursday                 61 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Saturday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Sunday                   127 commits         ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
 💬 Programming Languages: 
-Python                   18 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.87 % 
-Vue                      2 hrs 51 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.15 % 
-Markdown                 1 hr 46 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.92 % 
-HTML                     1 hr 31 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.94 % 
-JavaScript               44 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.88 % 
+Python                   18 hrs 24 mins      ██████████████████░░░░░░░   71.87 % 
+Vue                      2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+HTML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   77.30 % 
-Claude Code              5 hrs 48 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.70 % 
+VS Code                  19 hrs 47 mins      ███████████████████░░░░░░   77.30 % 
+Claude Code              5 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+
+🐱‍💻 Projects: 
+bookguy-django           21 hrs 33 mins      █████████████████████░░░░   84.19 % 
+bookguy-admin-vue        2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+bookguy-client-vue       1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+bookguy-docker-compose   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      25 hrs 36 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Mac                      25 hrs 36 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/royng163/royng163/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/06/2026 05:22:13 UTC
 <!--END_SECTION:waka-->
