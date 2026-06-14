@@ -43,6 +43,38 @@
 
 <h2 align="left">📊Stats:</h2>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 590.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 43 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 16 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Solidity                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/royng163/royng163/main/assets/bar_graph.png)
+
+
+ Last Updated on 14/06/2026 05:04:42 UTC
 <!--END_SECTION:waka-->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
     <a href="https://github.com/royng163"><img align="center" src="https://github-readme-stats-delta-three-50.vercel.app/api/top-langs?username=royng163&show_icons=true&theme=react&locale=en&layout=donut&langs_count=6&hide=cmake,c%2B%2B,swift,html&size_weight=0.5&count_weight=0.5&exclude_repo=ETHlection" alt="Roy Ng's Top Languages in GitHub"/></a>
