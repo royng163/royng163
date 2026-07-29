@@ -13,11 +13,16 @@ jobs:
       - name: Wait for WakaTime stats to be ready
         id: waka
         run: |
-          for i in $(seq 1 5); do
-            code=$(curl -s -o /dev/null -w '%{http_code}' \
-              "https://wakatime.com/api/v1/users/current/stats/last_7_days?api_key=${{ secrets.WAKATIME_API_KEY }}")
-            echo "attempt $i: HTTP $code"
-            [ "$code" = "200" ] && { echo "ready=true" >> "$GITHUB_OUTPUT"; exit 0; }
+          # all_time feeds the Code Time badge, last_7_days the weekly breakdown: both must be 200
+          for i in $(seq 1 10); do
+            ok=1
+            for ep in last_7_days all_time; do
+              code=$(curl -s -o /dev/null -w '%{http_code}' \
+                "https://wakatime.com/api/v1/users/current/stats/$ep?api_key=${{ secrets.WAKATIME_API_KEY }}")
+              echo "attempt $i: $ep HTTP $code"
+              [ "$code" = "200" ] || ok=0
+            done
+            [ "$ok" = "1" ] && { echo "ready=true" >> "$GITHUB_OUTPUT"; exit 0; }
             sleep 30
           done
           # not ready (e.g. 202 still generating): skip so we don't overwrite the README with nothing
@@ -30,6 +35,8 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           SHOW_PROFILE_VIEWS: "False"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
