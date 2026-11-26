@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Roy</h1>
 <h3 align="center">A passionate computer science graduate</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royng163/royng163/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royng163/royng163/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/royng163/royng163/output/github-snake.svg" />
+</picture>
+
 <h2 align="left">📊Stats:</h2>
 
 <!--START_SECTION:waka-->
@@ -39,12 +45,6 @@ Mac                      18 hrs 29 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 
 <!--END_SECTION:waka-->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/royng163/royng163/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/royng163/royng163/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/royng163/royng163/output/github-snake.svg" />
-</picture>
 
 <h2 align="left">🌟Skills:</h2>
 
